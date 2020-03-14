@@ -1,4 +1,4 @@
-#Project 1 from introduction to machine learning and data mining
+# Project 1 from introduction to machine learning and data mining
 
 This project is from my third semester of the BSc Eng. in Data Science and Artificial Intelligence at The Technical University of Denmark.
 
